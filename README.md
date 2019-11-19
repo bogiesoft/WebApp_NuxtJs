@@ -1,4 +1,4 @@
-# web01
+# WebApp_NuxtJs
 
 > My solid Nuxt.js project
 
